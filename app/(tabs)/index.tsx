@@ -20,7 +20,7 @@ export default function HomeScreen() {
   return (
     <View
       style={{
-        backgroundColor: "white",
+        backgroundColor: "#F8F8F8",
       }}
     >
       <ScrollView style={styles.container}>
