@@ -74,7 +74,7 @@ const RestaurantCard: React.FC<RestaurantProps> = ({
                 lineHeight: 12.1,
               }}
             >
-              {deliveryTime}
+              {deliveryTime} mins
             </Text>
           </View>
         </View>
